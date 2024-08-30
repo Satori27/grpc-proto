@@ -1,3 +1,3 @@
-module github.com/protos/0.0.1
+module github.com/Satori27/grpc-proto
 
 go 1.22.5
